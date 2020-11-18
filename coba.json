@@ -1,0 +1,14 @@
+[
+    {
+    "nama" : "Ferdiansyah",
+    "umur" : 19,
+    "nrp" : "183040022",
+    "lulus": true,
+    "Hobby" : [
+        "coding",
+        "gaming"
+    ]
+
+
+}
+]
